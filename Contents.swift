@@ -65,7 +65,7 @@ class FacebookProfile
     
     
     
-        let leosFacebook = FacebookProfile()
+        var leosFacebook = FacebookProfile()
     
     //If I want to modify leosFacebook, I would call upon the object I created here:
     //When you want to use a function in a class, you use a period behind the object name and you write the function name. For example, so I use .setProfileName (calls upon the fun setProfilename)
